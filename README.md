@@ -36,10 +36,11 @@ Another **student and class management POS system** built with Java for academic
 
 ## 🛠 Technologies I Work With
 
-- **Languages:** Java, SQL, HTML, CSS, JavaScript  
-- **Frameworks & Platforms:** Android, Web, REST APIs  
-- **Databases:** MySQL, SQLite
-
+- **Languages:** Java, SQL, HTML, CSS, JavaScript, PHP  
+- **Frameworks & Libraries:** JavaFX, Java Swing, React, React Native, Bootstrap, Tailwind CSS  
+- **Platforms & Technologies:** Android, Web Development, REST APIs  
+- **Databases:** MySQL, SQLite  
+- **Tools & Services:** Git, Firebase, Google Cloud Platform, Hibernate, Postman
 ---
 
 ## 📫 Let’s Connect
