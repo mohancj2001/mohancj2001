@@ -11,52 +11,7 @@
 Welcome to my GitHub profile!  
 I'm a passionate software developer focused on building real-world applications, particularly in **Java**, **Web**, and **Mobile Development**.
 
-💡 I enjoy building solutions that solve everyday problems — from enterprise systems to booking apps and POS systems.
-
----
-
-## 🚀 Featured Projects
-
-### 📌 GlobeMed
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/mohancj2001)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/mohancj2001)
-
-A **healthcare management system** built with Java and MySQL.  
-**Features:**
-- Patient records management
-- Appointment scheduling
-- Billing and insurance claim tracking
-- Role-based access control
-
----
-
-### 📌 Adyapana
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/mohancj2001)
-[![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/mohancj2001)
-
-A **Point of Sale (POS) system for student management**.  
-Built with Java with clear modules for student details and fee management.
-
----
-
-### 📌 OceanBreezeResorts
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mohancj2001)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mohancj2001)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/mohancj2001)
-
-A **complete resort booking solution** including:
-- Customer Mobile App for browsing and room booking
-- Admin Web Portal for room, price and availability management  
-
-*(Part of my m-commerce application work)*
-
----
-
-### 📌 Chathurya_institute
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/mohancj2001)
-[![Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/mohancj2001)
-
-Another **student and class management POS system** built with Java for academic use cases.
+💡 I enjoy building solutions that solve everyday problems — from enterprise systems to Apps and POS systems.
 
 ---
 
