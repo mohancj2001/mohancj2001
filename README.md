@@ -50,10 +50,6 @@ I'm a passionate software developer focused on building real-world applications,
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohancj2001&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohancj2001&layout=compact&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohancj2001&theme=radical)
 
 </div>
