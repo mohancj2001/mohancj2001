@@ -46,13 +46,7 @@ I'm a passionate software developer focused on building real-world applications,
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohancj2001&theme=radical)
-
-</div>
 
 ---
 
